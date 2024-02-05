@@ -8,6 +8,10 @@ Please respect the copyright and do not copy the bot completely.
 
 If you need to take separate parts of the code, then use it. I dare not forbid it.
 
+
+
+
+
 Russian:
 
 Бот "Zxcc Learner" предназначен для использования на одном сервере Discord (https://discord.gg/Z7p6j3EvmW) 
