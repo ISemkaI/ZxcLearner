@@ -1,0 +1,17 @@
+[
+    {
+        "Bot": {
+            "token": "",
+            "name": "ZXC Learner",
+            "prefix": "B!"
+        },
+        "Parser": {
+            "MessageID": 1216017118210822164,
+            "ChannelID": 1210157717147099136
+        },
+        "PrivateVoice": {
+            "privatevoice_channel_id": 1216049635186184362,
+            "privatevoice_category_id": 1133600752695259216
+        }
+    }
+]
