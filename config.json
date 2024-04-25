@@ -2,8 +2,8 @@
     {
         "Bot": {
             "token": "",
-            "name": "ZXC Learner",
-            "prefix": "B!"
+            "name": "",
+            "prefix": ""
         },
         "Parser": {
             "MessageID": 1216017118210822164,

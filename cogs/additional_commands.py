@@ -35,7 +35,7 @@ class additional_commands(cmd.Cog):
         self.bot = bot
         
     @app_cmd.command(name = "аватар", description="Команда для получения id и названия эмодзи")
-    @app_cmd.describe(member = "Участник в дискоре, если не указать будете вы")
+    @app_cmd.describe(member = "Участник в дискорде, если не указать будете вы")
     async def emoji_getter(self, interaction: discord.Interaction, member: discord.Member = None):
         if member is None:
             await interaction.response.send_message(embed = discord.Embed(title = f"Аватар: {interaction.user.name}").set_image(url = interaction.user.avatar))
